@@ -2,6 +2,6 @@
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2">
   <app appid="nejbaidbnjenlggkkoiibkcbigkfipcj">
     <updatecheck
-      codebase="https://github.com/venugopal-ib/Chrome-Extension-Ol2ia12/blob/main/dist.crx" />
+      codebase="https://raw.githubusercontent.com/venugopal-ib/Chrome-Extension-Ol2ia12/main/dist.crx" />
   </app>
 </gupdate>
